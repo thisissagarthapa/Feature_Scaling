@@ -14,6 +14,9 @@ This project focuses on implementing feature scaling and selection techniques to
 - **Pandas**: For data manipulation and preprocessing.
 - **NumPy**: For numerical computations.
 - **Scikit-learn**: A machine learning library for linear regression, feature selection, and model validation.
+- **Matplotlib**: For creating static, animated, and interactive visualizations in Python.
+- **Seaborn**: A statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive graphics.
+
 
 ## Data Preprocessing
 
