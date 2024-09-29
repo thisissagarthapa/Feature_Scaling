@@ -37,4 +37,3 @@ This project focuses on implementing feature scaling and selection techniques to
 ## Feature Selection
 - **Sequential Feature Selector**: Selects the top features based on their contribution to model performance using a linear regression model.
 
-## Project Structure
